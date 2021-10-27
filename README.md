@@ -2,15 +2,11 @@
 
 What can syml eat today?
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## TODO
+联网更新恰啥列表
+修bug：
+- 添加恰啥之后要退出才能显示（debug模式下明明修掉了）
+- 编辑页面好像元素溢出了
+- 一些不知道为什么的奇奇怪怪的bug
+写一个更漂亮的前端
+重构代码
